@@ -1,0 +1,52 @@
+[
+    {
+        "nombre":"ACTRON 600 X 20",
+        "laboratorio":"LABORATORIOS BAYER",
+        "trazabilidad":"7501318634756",
+        "costo":403.5,
+        "stock":60,
+        "sector":"A01",
+        "precio":609.28,
+        "img": "actron-600-x-30.jpg"
+    },
+    {
+        "nombre":"TAFIROL 1G X 50",
+        "laboratorio":"GENOMMA LAB",
+        "trazabilidad":"7798140258667",
+        "costo":700,
+        "stock":200,
+        "sector":"A02",
+        "precio":1057,
+        "img": "tafirol-1g-x-50.jpg"
+    },
+    {
+        "nombre":"TAFIROL 1G X 80",
+        "laboratorio":"GENOMMA LAB",
+        "trazabilidad":"4040404040401",
+        "costo":1500,
+        "stock":250,
+        "sector":"A03",
+        "precio":2265,
+        "img": "tafirol-1g-x-80.jpg"
+    },
+    {
+        "nombre":"LOSACOR 50 X 30",
+        "laboratorio":"ROEMMERS SAICF",
+        "trazabilidad":"7795345009636",
+        "costo":1800,
+        "stock":50,
+        "sector":"A04",
+        "precio":2718,
+        "img": "losacor-50-x-50.jpg"
+    },
+    {
+        "nombre":"CURFLEX X 30",
+        "laboratorio":"GRAMON MILLET",
+        "trazabilidad":"7791984999994",
+        "costo":1637.63,
+        "stock":200,
+        "sector":"A05",
+        "precio":2576,
+        "img": "curflex-x-30.jpg"
+    }
+]
